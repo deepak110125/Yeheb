@@ -1,0 +1,8 @@
+{
+  "name": "Lumière Dining v4 pro",
+  "description": "A premium immersive dining experience featuring an interactive menu with AR visualization and AI-powered culinary assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
